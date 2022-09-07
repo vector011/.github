@@ -4,6 +4,6 @@
   </a>
 </p>
 
-<h1 align="center" style="border-bottom: none">Welcome to vector011</h1>
+<h1 align="center">Welcome to vector011</h1>
 
 <p align="center">... make your digital product happen ...</p>
