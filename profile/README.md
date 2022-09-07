@@ -1,6 +1,6 @@
-<p align="center" style="margin-bottom: 0">
+<p align="center">
   <a href="https://vector011.com/">
-    <img src="./logo-animated.gif" width="200" />
+    <img src="./logo-animated.gif" width="200" height="114" />
   </a>
 </p>
 
